@@ -13,7 +13,7 @@
     <packaging>jar</packaging>
     <version>17.0.1</version>
     <name>SpringSeed : Keycloak : Embed : Server</name>
-    <description>内嵌式Keycloak身份和访问管理工具</description>
+    <description>基于Keycloak的，内嵌式的认证与鉴权服务</description>
 
     <properties>
         <keycloak.version>17.0.1</keycloak.version>
