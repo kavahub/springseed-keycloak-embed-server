@@ -1,0 +1,6 @@
+{
+  "themes": [{
+    "name": "dubhe",
+    "types": ["account", "admin", "email", "login", "welcome"]
+  }]
+}
